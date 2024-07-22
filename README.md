@@ -1,6 +1,6 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! (Writeups/Notes soon)
-* *Goal is to finish as many as possible before the year ends* *
+*Goal is to finish as many as possible before the year ends* 
 
 ## FORENSICS
 - Scan Surprise
