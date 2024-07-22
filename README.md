@@ -9,11 +9,13 @@ This is the list of picoCTF Challenges that I solved! (Writeups/Notes soon)
 - CanYouSee
 - PcapPoisoning
 - endianness-v2
+- hideme
 
 ## CRYPTOGRAPHY
 - interencdec
 - rotation
 - ReadMyCert
+- HideToSee
 
 ## GENERAL SKILLS
 - Super SSH
