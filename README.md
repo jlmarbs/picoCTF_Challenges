@@ -22,6 +22,7 @@ This is the list of picoCTF Challenges that I solved! (Writeups/Notes soon)
 - Time Machine
 - repetitions
 - ASCII Numbers
+- First Find
 
 ## BINARY EXPLOITATION
 - heap 0
