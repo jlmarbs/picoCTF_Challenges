@@ -1,7 +1,7 @@
 # MY PROCESS
 
 It's just basically how you connect to a SSH!
-- ssh <user>@<provided host> -p <provided port number>
+- ssh user@provided host -p provided port number
 - type yes
 - type the password given
 
