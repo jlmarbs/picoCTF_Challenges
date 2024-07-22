@@ -11,6 +11,6 @@ So that got me thinking we should use **git log**.
 - when going to the drop-in directory, there is a message.txt file.
 - reading the message will result to this
   - ![image](https://github.com/user-attachments/assets/af16b923-111b-4e19-a11f-593bd063cb6d)
-- i used the git log command on the message.txt file. (git log message.txt)
+- i used the git log command on the message.txt file. ```git log message.txt```
 
 Once doing that, the flag will be provided on the commit message.
