@@ -15,4 +15,4 @@ Upon doing that, the flag will be revealed.
 Funny thing was, you can actually see the file path after you extract the file.
    ![image](https://github.com/user-attachments/assets/888be10a-1a02-4538-86ad-fea1d57e87f8)
 
-Then you'll just do the cat command!
+Then you'll just do the cat command after you copied the file path!
