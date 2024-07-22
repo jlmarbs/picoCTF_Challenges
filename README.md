@@ -10,6 +10,7 @@ This is the list of picoCTF Challenges that I solved! (Writeups/Notes soon)
 - PcapPoisoning
 - endianness-v2
 - hideme
+- Packets Primer
 
 ## CRYPTOGRAPHY
 - interencdec
