@@ -14,12 +14,15 @@ This is the list of picoCTF Challenges that I solved!
 - hideme
 - Packets Primer
 - Redaction gone wrong
+- Lookey here
+- Enhance!
 
 ## CRYPTOGRAPHY
 - interencdec
 - rotation
 - ReadMyCert
 - HideToSee
+- morse-code
 
 ## GENERAL SKILLS
 - Super SSH
@@ -37,3 +40,4 @@ This is the list of picoCTF Challenges that I solved!
 
 ## WEB EXPLOITATION
 - WebDecode
+- Local Authority
