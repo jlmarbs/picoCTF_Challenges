@@ -25,7 +25,7 @@ This is the list of picoCTF Challenges that I solved!
 - morse-code
 
 ## GENERAL SKILLS
-- Super SSH
+- [Super SSH](General_Skills/SuperSSH.md)
 - Time Machine
 - repetitions
 - ASCII Numbers
