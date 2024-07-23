@@ -6,7 +6,7 @@ This is the list of picoCTF Challenges that I solved!
 *Goal is to finish as many as possible before the year ends* 
 
 ## FORENSICS
-- [Scan Surprise](Forensics/Scan Surprise.md)
+- Scan Surprise
 - Secret of the Polygot
 - CanYouSee
 - PcapPoisoning
@@ -25,7 +25,7 @@ This is the list of picoCTF Challenges that I solved!
 - morse-code
 
 ## GENERAL SKILLS
-- [Super SSH](General_Skills/SuperSSH.md)
+- Super SSH
 - Time Machine
 - repetitions
 - ASCII Numbers
