@@ -13,6 +13,7 @@ This is the list of picoCTF Challenges that I solved!
 - endianness-v2
 - hideme
 - Packets Primer
+- Redaction gone wrong
 
 ## CRYPTOGRAPHY
 - interencdec
