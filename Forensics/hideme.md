@@ -5,10 +5,11 @@ We are provided with ```flag.png``` and it just shows us a picture of the picoCT
 ## SOLVING
 
 So I tried ```exiftool``` the image, but there were no details that is useful to find the flag.
+
 ![image](https://github.com/user-attachments/assets/74921c04-f669-4e72-8573-00c0b53c9ce7)
 
-
 So what I did is that, I tried using ```binwalk``` on the image, and this is the result
+
 ![image](https://github.com/user-attachments/assets/444b2342-69e4-4e36-86dc-f9984d5d70f9)
 
 There is a hidden ZIP file in the image. To extract it, I did:
