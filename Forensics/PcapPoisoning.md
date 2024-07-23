@@ -5,7 +5,7 @@ We are provided with a .pcap file which means we need to use ```WireShark``` for
 ## SOLVING
 
 This is what it looks like after you opened the .pcap file in Wireshark
-![image](https://github.com/user-attachments/assets/f022e36a-f771-4a3d-90a9-6322ddd50a5e)
+![image](https://github.com/user-attachments/assets/853e84c9-e716-496b-bc9c-b85e6d0296ee)
 
 In order to find the flag, I don't know if there is a faster way of doing this but,
 
