@@ -5,7 +5,7 @@ Upon reading the text file, it will show us this:
 
 ![image](https://github.com/user-attachments/assets/4bbb4d5e-d450-4fc4-a2c6-c6ec87a5c578)
 
-This is seem like a Caesar Cipher encryption.
+This looks like a Caesar Cipher encryption.
 
 ## SOLVING
 
