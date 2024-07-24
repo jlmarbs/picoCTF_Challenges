@@ -1,6 +1,7 @@
 # MY PROCESS
 
 We are provided with a .csr file.
+
 ![image](https://github.com/user-attachments/assets/e84d84cd-3634-49e0-bca7-380a3d37d075)
 
 Upon reading the .csr file, I have no clue whatsoever.
