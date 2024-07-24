@@ -26,7 +26,7 @@ Before we are going to use the shell file, we must first check what file has the
 <sub>The lists of files goes on and on</sub>
 
 Since there are a lot of files there and we just need to check for the same checksum provided, This is the command I used:
-- ```sha256sum files/* | grep "<the checksum provided to us>"
+- ```sha256sum files/* | grep "<the checksum provided to us>" ```
 ![image](https://github.com/user-attachments/assets/f8696aad-edef-4580-a6fb-63aec5ab5fb3)
 
 This will be the result.
