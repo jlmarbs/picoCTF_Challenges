@@ -16,6 +16,7 @@ This is the list of picoCTF Challenges that I solved!
 - Redaction gone wrong
 - Lookey here
 - Enhance!
+- Verify
 
 ## CRYPTOGRAPHY
 - interencdec
@@ -30,14 +31,17 @@ This is the list of picoCTF Challenges that I solved!
 - repetitions
 - ASCII Numbers
 - First Find
+- binhexa
 
 ## BINARY EXPLOITATION
 - heap 0
 - heap 1
+- Local Target
 
 ## REVERSE ENGINEERING
-- N/A
+- packer
 
 ## WEB EXPLOITATION
 - WebDecode
 - Local Authority
+- Unminify
