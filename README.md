@@ -38,6 +38,8 @@ This is the list of picoCTF Challenges that I solved!
 - heap 0
 - heap 1
 - Local Target
+- format-string 0
+- format-string 1
 
 ## REVERSE ENGINEERING
 - packer
