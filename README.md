@@ -32,6 +32,7 @@ This is the list of picoCTF Challenges that I solved!
 - ASCII Numbers
 - First Find
 - binhexa
+- Binary Search
 
 ## BINARY EXPLOITATION
 - heap 0
