@@ -33,6 +33,6 @@ This will be the result.
 
 Now since we know that we need to decrypt ```8eee7195```, we can now go back to the shell file that we made executable.
 
-I run it with ```./decrypt.sh files/8eee7195``` <- will only work if you connected with the provided SSH!
+I run it with ```./decrypt.sh files/8eee7195``` <- will only work if you connect with the provided SSH!
 
 After that the flag for that challenge will be revealed.
