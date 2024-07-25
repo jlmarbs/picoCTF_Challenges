@@ -22,6 +22,7 @@ And then I encounted this:
 At this point I have no clue whatsoever on what I should be looking for in this file, until I checked ```Packet No. 48```
 
 I noticed that this packet has a unique protocol that can be nowhere found in the file since other unknown protocols were repeated many times.
+
 ![image](https://github.com/user-attachments/assets/65c9ff01-de00-46a7-a14e-23fdab4a53eb)
 
 Checking the data and the hex below, I noticed that part of it looked like a base64 string.
@@ -36,6 +37,7 @@ It showed the partial of the flag! But inputting this to the challenge will mark
 This makes sense now since we got the partial of the flag.
 
 So what I did is that, I inputted that as a password for the zip file.
+
 ![image](https://github.com/user-attachments/assets/fc8edcc8-ed24-4ef0-a39b-a93c8a1e5dee)
 
 After inputting the partial flag as a password, it got extracted!
