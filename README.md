@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-```Writeup/Notes Update: Completed! (for now)```
+```Writeup/Notes Update: In Progress```
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -18,6 +18,7 @@ This is the list of picoCTF Challenges that I solved!
 - Enhance!
 - Verify
 - FindAndOpen
+- St3g0
 
 ## CRYPTOGRAPHY
 - interencdec
