@@ -32,6 +32,6 @@ By viewing at the file, it looks like a Caesar Cipher.
 So what I did is that, I tried all possibilites ```e.g ROT6 ... ROT13 ... and so on```.
 
 It looked like a ROT7 encryption so this is the command I ran to decode it:
-```cat wah.txt | tr 'A-Za-z' 'T-ZA-St-za-s'```
+```cat wah.txt | tr 'A-Za-z' 'H-ZA-Gh-za-g'```
 
 Upon doing that, the flag for that challenge will be revealed.
