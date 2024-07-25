@@ -15,3 +15,9 @@ And then, every blocks of 3, I rearranged them in a ```312``` manner since it ma
 ![image](https://github.com/user-attachments/assets/de7e134a-281a-4626-b62b-d2fb84b3a582)
 
 After you transpose them, the final output will be the flag for the challenge.
+
+### NOTE
+Arranging in a ```312``` manner basically means that, the 3rd variable will be placed first, the 1st will be placed second and the 2nd will be on the last.
+
+- Example:
+  - anj - jan
