@@ -29,9 +29,9 @@ Reading the file will result into that.
 
 By viewing at the file, it looks like a Caesar Cipher. 
 
-So what I did is that, I tried all possibilites ```e.g ROT13 ROT14 ROT15 and so on```.
+So what I did is that, I tried all possibilites ```e.g ROT6 ... ROT13 ... and so on```.
 
-It looked like a ROT19 encryption so this is the command I ran to decode it:
+It looked like a ROT7 encryption so this is the command I ran to decode it:
 ```cat wah.txt | tr 'A-Za-z' 'T-ZA-St-za-s'```
 
 Upon doing that, the flag for that challenge will be revealed.
