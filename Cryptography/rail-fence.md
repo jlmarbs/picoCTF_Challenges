@@ -2,6 +2,9 @@
 
 We are given a ```message.txt``` file and then a link to a ```Rail Fence Cipher```.
 
+Inside of ```message.txt```:
+![image](https://github.com/user-attachments/assets/d2fd56c6-be82-4a31-a3b6-5c15bcb548c2)
+
 Once reading and understanding what rail fence cipher is, it is time to decode the flag that is inside of ```message.txt```.
 
 ## SOLVING
