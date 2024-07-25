@@ -17,6 +17,7 @@ This is the list of picoCTF Challenges that I solved!
 - Lookey here
 - Enhance!
 - Verify
+- FindAndOpen
 
 ## CRYPTOGRAPHY
 - interencdec
@@ -24,6 +25,10 @@ This is the list of picoCTF Challenges that I solved!
 - ReadMyCert
 - HideToSee
 - morse-code
+- Vigenere
+- transposition-trial
+- substitution0
+- rail-fence
 
 ## GENERAL SKILLS
 - Super SSH
