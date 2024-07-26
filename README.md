@@ -39,6 +39,7 @@ This is the list of picoCTF Challenges that I solved!
 - First Find
 - binhexa
 - Binary Search
+- Blame Game
 
 ## BINARY EXPLOITATION
 - heap 0
