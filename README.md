@@ -7,7 +7,7 @@ This is the list of picoCTF Challenges that I solved!
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
-- [Secret of the Polygot](Forensics/Secret-of-the-Polygot)
+- [Secret of the Polygot](Forensics/Secret-of-the-Polygot.md)
 - [CanYouSee](Forensics/CanYouSee.md)
 - [PcapPoisoning](Forensics/PcapPoisoning.md)
 - [endianness-v2](Forensics/endianness-v2.md)
@@ -33,7 +33,7 @@ This is the list of picoCTF Challenges that I solved!
 - [rail-fence](Cryptography/rail-fence.md)
 
 ## GENERAL SKILLS
-- [Super SSH](General_Skills/Super-SSH.md)
+- [Super SSH](General_Skills/SuperSSH.md)
 - [Time Machine](General_Skills/Time-Machine.md)
 - [repetitions](General_Skills/repetitions.md)
 - [ASCII Numbers](General_Skills/ASCII-Numbers.md)
@@ -46,7 +46,7 @@ This is the list of picoCTF Challenges that I solved!
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
 - [heap 1](Binary_Exploitation/heap-1.md)
-- [Local Target](Binary_Exploitation/Local-Targer.md)
+- [Local Target](Binary_Exploitation/Local-Target.md)
 - [format-string 0](Binary_Exploitation/format-string0.md)
 - [format-string 1](Binary_Exploitation/format-string1.md)
 
