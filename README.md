@@ -47,8 +47,8 @@ This is the list of picoCTF Challenges that I solved!
 - [heap 0](Binary_Exploitation/heap-0.md)
 - [heap 1](Binary_Exploitation/heap-1.md)
 - [Local Target](Binary_Exploitation/Local-Targer.md)
-- [format-string 0](Binary_Exploitation/format-string-0.md)
-- [format-string 1](Binary_Exploitation/format-string-1.md)
+- [format-string 0](Binary_Exploitation/format-string0.md)
+- [format-string 1](Binary_Exploitation/format-string1.md)
 
 ## REVERSE ENGINEERING
 - [packer](Reverse_Engineering/packer.md)
