@@ -26,6 +26,6 @@ After that, I inputted this command:
 And that will create an `outputSB.txt` file.
 
 Upon opening it on a text editor, I did a `CTRL + F` to find the flag by using `"picoCTF"`.
-- Alternatively, you can do this too `cat outputSB.txt | grep -o -E "picoCTF.{0.43} <sub>since doing the normal grep will not get you the flag.</sub>`
+- Alternatively, you can do this too `cat outputSB.txt | grep -o -E "picoCTF.{0.43}` <sub>since doing the normal grep will not get you the flag.</sub>
 
 After doing so, you will get the flag for the challenge.
