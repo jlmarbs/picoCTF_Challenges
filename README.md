@@ -19,6 +19,7 @@ This is the list of picoCTF Challenges that I solved!
 - Verify
 - FindAndOpen
 - St3g0
+- MSB
 
 ## CRYPTOGRAPHY
 - interencdec
@@ -56,3 +57,4 @@ This is the list of picoCTF Challenges that I solved!
 - WebDecode
 - Local Authority
 - Unminify
+- Bookmarklet
