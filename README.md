@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-```Writeup/Notes Update: Complete (for now)```
+```Writeup/Notes Update: In Progress```
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -40,6 +40,7 @@ This is the list of picoCTF Challenges that I solved!
 - binhexa
 - Binary Search
 - Blame Game
+- Commitment Issues
 
 ## BINARY EXPLOITATION
 - heap 0
