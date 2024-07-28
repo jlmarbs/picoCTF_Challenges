@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: Complete`
+`Writeup/Notes Update: In Progress`
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -21,6 +21,8 @@ This is the list of picoCTF Challenges that I solved!
 - [St3g0](Forensics/St3g0.md)
 - [MSB](Forensics/MSB.md)
 - [Sleuthkit Intro](Forensics/Sleuthkit-Intro.md)
+- [Eavesdrop]
+- [WebNet0]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
