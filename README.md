@@ -57,6 +57,7 @@ This is the list of picoCTF Challenges that I solved!
 
 ## REVERSE ENGINEERING
 - [packer](Reverse_Engineering/packer.md)
+- [Ready Gladiator 0]
 
 ## WEB EXPLOITATION
 - [WebDecode](Web_Exploitation/WebDecode.md)
