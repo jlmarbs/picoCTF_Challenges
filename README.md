@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: In Progess`
+`Writeup/Notes Update: Complete`
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -20,7 +20,7 @@ This is the list of picoCTF Challenges that I solved!
 - [FindAndOpen](Forensics/FindAndOpen.md)
 - [St3g0](Forensics/St3g0.md)
 - [MSB](Forensics/MSB.md)
-- [Sleuthkit Intro]
+- [Sleuthkit Intro](Forensics/Sleuthkit-Intro.md)
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -32,7 +32,7 @@ This is the list of picoCTF Challenges that I solved!
 - [transposition-trial](Cryptography/transposition-trial.md)
 - [substitution0](Cryptography/substitution0.md)
 - [rail-fence](Cryptography/rail-fence.md)
-- [substitution1]
+- [substitution1](Cryptography/substitution1.md)
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
@@ -44,7 +44,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Binary Search](General_Skills/Binary-Search.md)
 - [Blame Game](General_Skills/Blame-Game.md)
 - [Commitment Issues](General_Skills/Commitment-Issues.md)
-- [dont-you-love-banners]
+- [dont-you-love-banners](General_Skills/dont-you-love-banners.md)
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
