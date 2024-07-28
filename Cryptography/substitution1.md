@@ -19,3 +19,5 @@ And since it did not view the full message, we are now going to substitute the l
 ![image](https://github.com/user-attachments/assets/e8b93758-9b35-4b97-99e9-a9d260eaddfb)
 
 After that, the flag is decoded!
+
+![image](https://github.com/user-attachments/assets/71d44cf1-5082-4dcf-8a42-392ffc27c970)
