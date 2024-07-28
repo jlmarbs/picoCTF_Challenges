@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: In Progress`
+`Writeup/Notes Update: Complete`
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -21,8 +21,8 @@ This is the list of picoCTF Challenges that I solved!
 - [St3g0](Forensics/St3g0.md)
 - [MSB](Forensics/MSB.md)
 - [Sleuthkit Intro](Forensics/Sleuthkit-Intro.md)
-- [Eavesdrop]
-- [WebNet0]
+- [Eavesdrop](Forensics/Eavesdrop.md)
+- [WebNet0](Forensics/WebNet0.md)
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -57,7 +57,7 @@ This is the list of picoCTF Challenges that I solved!
 
 ## REVERSE ENGINEERING
 - [packer](Reverse_Engineering/packer.md)
-- [Ready Gladiator 0]
+- [Ready Gladiator 0](Reverse_Engineering/Ready-Gladiator-0.md)
 
 ## WEB EXPLOITATION
 - [WebDecode](Web_Exploitation/WebDecode.md)
