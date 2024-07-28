@@ -35,6 +35,7 @@ This is the list of picoCTF Challenges that I solved!
 - [substitution0](Cryptography/substitution0.md)
 - [rail-fence](Cryptography/rail-fence.md)
 - [substitution1](Cryptography/substitution1.md)
+- [basic-mod1](Cryptography/basic-mod1.md)
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
