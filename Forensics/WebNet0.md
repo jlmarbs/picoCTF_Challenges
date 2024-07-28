@@ -30,6 +30,5 @@ After searching on the internet on how to, This is what I did:
 
 And now if you follow the TLS Stream, you can find your flag for the challenge there.
 
-![image](https://github.com/user-attachments/assets/ec6504d1-c36f-46f4-828e-edbff9605f84)
-
-
+![tls](https://github.com/user-attachments/assets/ba3e0646-e961-43b7-abb5-882615b73a17)
+<sub>pls dont view the commit history...<sub/>
