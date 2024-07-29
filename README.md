@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: Complete`
+`Writeup/Notes Update: In Progress`
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -23,6 +23,9 @@ This is the list of picoCTF Challenges that I solved!
 - [Sleuthkit Intro](Forensics/Sleuthkit-Intro.md)
 - [Eavesdrop](Forensics/Eavesdrop.md)
 - [WebNet0](Forensics/WebNet0.md)
+- [information]
+- [Matryoshka doll]
+- [Wireshark doo dooo do doo...]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -36,6 +39,10 @@ This is the list of picoCTF Challenges that I solved!
 - [rail-fence](Cryptography/rail-fence.md)
 - [substitution1](Cryptography/substitution1.md)
 - [basic-mod1](Cryptography/basic-mod1.md)
+- [Mod 26]
+- [13]
+- [The Numbers]
+- [Mind your Ps and Qs]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
@@ -48,6 +55,12 @@ This is the list of picoCTF Challenges that I solved!
 - [Blame Game](General_Skills/Blame-Game.md)
 - [Commitment Issues](General_Skills/Commitment-Issues.md)
 - [dont-you-love-banners](General_Skills/dont-you-love-banners.md)
+- [Serpentine]
+- [runme.py]
+- [PW Crack 1]
+- [HashingJobApp]
+- [Wave a flag]
+- [Nice netcat...]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
@@ -65,3 +78,5 @@ This is the list of picoCTF Challenges that I solved!
 - [Local Authority](Web_Exploitation/Local-Authority.md)
 - [Unminify](Web_Exploitation/Unminify.md)
 - [Bookmarklet](Web_Exploitation/Bookmarklet.md)
+- [Power Cookie]
+- [Inspect HTML]
