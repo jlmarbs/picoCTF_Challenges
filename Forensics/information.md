@@ -1,6 +1,6 @@
 # MY PROCESS
 
-We are provided with a image file named `cat.jpg` and it looks like this:
+We are provided with an image file named `cat.jpg` and it looks like this:
 
 ![image](https://github.com/user-attachments/assets/eebb15d5-3c1b-4d46-8b21-9a54a5de9641)
 
