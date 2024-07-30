@@ -23,9 +23,10 @@ This is the list of picoCTF Challenges that I solved!
 - [Sleuthkit Intro](Forensics/Sleuthkit-Intro.md)
 - [Eavesdrop](Forensics/Eavesdrop.md)
 - [WebNet0](Forensics/WebNet0.md)
-- [information]
-- [Matryoshka doll]
-- [Wireshark doo dooo do doo...]
+- [information](Forensics/information.md)
+- [Matryoshka doll](Forensics/Matryoshka-doll.md)
+- [Wireshark doo dooo do doo...](Forensics/Wireshark-doo-doo.md)
+- [shark on wire 1]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -39,10 +40,11 @@ This is the list of picoCTF Challenges that I solved!
 - [rail-fence](Cryptography/rail-fence.md)
 - [substitution1](Cryptography/substitution1.md)
 - [basic-mod1](Cryptography/basic-mod1.md)
-- [Mod 26]
-- [13]
-- [The Numbers]
-- [Mind your Ps and Qs]
+- [Mod 26](Cryptography/mod-26.md)
+- [13](Cryptography/13.md)
+- [The Numbers](Cryptography/The-Numbers.md)
+- [Mind your Ps and Qs](Cryptography/Mind-Your-Ps-and-Qs.md)
+- [credstuff]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
@@ -80,3 +82,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Bookmarklet](Web_Exploitation/Bookmarklet.md)
 - [Power Cookie]
 - [Inspect HTML]
+- [Secrets]
