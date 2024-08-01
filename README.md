@@ -84,3 +84,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Power Cookie]
 - [Inspect HTML]
 - [Secrets]
+- [dont-use-client-side]
