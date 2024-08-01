@@ -27,6 +27,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Matryoshka doll](Forensics/Matryoshka-doll.md)
 - [Wireshark doo dooo do doo...](Forensics/Wireshark-doo-doo.md)
 - [shark on wire 1]
+- [Glory of the Garden]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -85,3 +86,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Inspect HTML]
 - [Secrets]
 - [dont-use-client-side]
+- [Insp3ct0r]
