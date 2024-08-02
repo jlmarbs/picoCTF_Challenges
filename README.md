@@ -65,6 +65,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Wave a flag]
 - [Nice netcat...]
 - [Big Zip]
+- [Obedient Cat]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
