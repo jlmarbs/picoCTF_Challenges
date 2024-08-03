@@ -90,3 +90,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Secrets]
 - [dont-use-client-side]
 - [Insp3ct0r]
+- [IntroToBurp]
