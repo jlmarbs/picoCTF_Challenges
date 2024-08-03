@@ -1,7 +1,7 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: In Progress (I got lazy)`
+`Writeup/Notes Update: In Progress (I still am lazy)`
 
 *Goal is to finish as many as possible before the year ends* 
 
@@ -46,6 +46,7 @@ This is the list of picoCTF Challenges that I solved!
 - [The Numbers](Cryptography/The-Numbers.md)
 - [Mind your Ps and Qs](Cryptography/Mind-Your-Ps-and-Qs.md)
 - [credstuff]
+- [Dachshund Attacks]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
