@@ -68,6 +68,8 @@ This is the list of picoCTF Challenges that I solved!
 - [Big Zip]
 - [Obedient Cat]
 - [Tab, Tab, Attack]
+- [Collaborative Development]
+- [Magikarp Ground Mission]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
@@ -91,3 +93,5 @@ This is the list of picoCTF Challenges that I solved!
 - [dont-use-client-side]
 - [Insp3ct0r]
 - [IntroToBurp]
+- [Includes]
+- [Cookies]
