@@ -70,6 +70,8 @@ This is the list of picoCTF Challenges that I solved!
 - [Tab, Tab, Attack]
 - [Collaborative Development]
 - [Magikarp Ground Mission]
+- [PW Crack 2]
+- [fixme1.py]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
