@@ -28,6 +28,8 @@ This is the list of picoCTF Challenges that I solved!
 - [Wireshark doo dooo do doo...](Forensics/Wireshark-doo-doo.md)
 - [shark on wire 1]
 - [Glory of the Garden]
+- [Mob psycho]
+- [WPA-ing Out]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
