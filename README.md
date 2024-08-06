@@ -99,3 +99,5 @@ This is the list of picoCTF Challenges that I solved!
 - [IntroToBurp]
 - [Includes]
 - [Cookies]
+- [Get aHEAD]
+- [logon]
