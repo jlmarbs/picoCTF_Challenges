@@ -30,6 +30,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Glory of the Garden]
 - [Mob psycho]
 - [WPA-ing Out]
+- [WebNet1]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -103,3 +104,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Cookies]
 - [Get aHEAD]
 - [logon]
+- [Scavenger Hunt]
