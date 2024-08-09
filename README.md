@@ -50,6 +50,9 @@ This is the list of picoCTF Challenges that I solved!
 - [Mind your Ps and Qs](Cryptography/Mind-Your-Ps-and-Qs.md)
 - [credstuff]
 - [Dachshund Attacks]
+- [caesar]
+- [Easy1]
+- [Tapping]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
