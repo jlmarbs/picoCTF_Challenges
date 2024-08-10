@@ -81,6 +81,7 @@ This is the list of picoCTF Challenges that I solved!
 - [fixme2.py]
 - [Glitch Cat]
 - [First Grep]
+- [Warmed up]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
