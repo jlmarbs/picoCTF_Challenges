@@ -82,6 +82,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Glitch Cat]
 - [First Grep]
 - [Warmed up]
+- [Bases]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
@@ -111,3 +112,4 @@ This is the list of picoCTF Challenges that I solved!
 - [Get aHEAD]
 - [logon]
 - [Scavenger Hunt]
+- [Trickster]
