@@ -4,6 +4,7 @@ This is the list of picoCTF Challenges that I solved!
 `Writeup/Notes Update: In Progress (I still am lazy)`
 
 *Goal is to finish as many as possible before the year ends* 
+`Challenges Solved: 103`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -31,6 +32,9 @@ This is the list of picoCTF Challenges that I solved!
 - [Mob psycho]
 - [WPA-ing Out]
 - [WebNet1]
+- [extensions]
+- [What Lies Within]
+- [So Meta]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
@@ -113,3 +117,6 @@ This is the list of picoCTF Challenges that I solved!
 - [logon]
 - [Scavenger Hunt]
 - [Trickster]
+- [where are the robots]
+- [Forbidden Paths]
+- [login]
