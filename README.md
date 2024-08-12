@@ -3,8 +3,9 @@ This is the list of picoCTF Challenges that I solved!
 
 `Writeup/Notes Update: In Progress (I still am lazy)`
 
-*Goal is to finish as many as possible before the year ends* 
-`Challenges Solved: 103`
+*Goal is to finish as many as possible before the year ends*
+
+`Challenges Solved: 105`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -35,6 +36,8 @@ This is the list of picoCTF Challenges that I solved!
 - [extensions]
 - [What Lies Within]
 - [So Meta]
+- [Wireshark twoo twooo two twoo...]
+- [Trivial Flag Transfer Protocol]
 
 ## CRYPTOGRAPHY
 - [interencdec](Cryptography/interencdec.md)
