@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 105`
+`Challenges Solved: 106`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -60,6 +60,7 @@ This is the list of picoCTF Challenges that I solved!
 - [caesar]
 - [Easy1]
 - [Tapping]
+- [Flags]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
