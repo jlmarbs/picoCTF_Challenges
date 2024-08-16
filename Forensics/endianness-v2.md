@@ -18,6 +18,7 @@ So what I did is that, I entered this command to get the flag:
 - ```hexdump -v -e '1/4 "%08x"' -e '"\n"' challengefile | xxd -r -p > output_file```
 
 Now I did ```exiftool``` on the output to see the details.
+
 ![image](https://github.com/user-attachments/assets/f5e2a90e-c0eb-46a5-8f0f-c87d8f75326c)
 
 Since it is a JPEG file, i renamed the file by doing ```cp output_file flag.jpg```
