@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 110`
+`Challenges Solved: 111`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -128,3 +128,4 @@ This is the list of picoCTF Challenges that I solved!
 - [login]
 - [SQL Direct]
 - [findme]
+- [SQLiLite]
