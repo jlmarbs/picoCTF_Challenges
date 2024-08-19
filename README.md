@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 113`
+`Challenges Solved: 114`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -95,6 +95,7 @@ This is the list of picoCTF Challenges that I solved!
 - [convertme.py]
 - [Codebook]
 - [strings it]
+- [what's a net cat?]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
