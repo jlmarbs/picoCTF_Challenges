@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 115`
+`Challenges Solved: 117`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
