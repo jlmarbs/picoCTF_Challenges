@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 117`
+`Challenges Solved: 120`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -63,6 +63,7 @@ This is the list of picoCTF Challenges that I solved!
 - [Tapping]
 - [Flags]
 - [substitution2]
+- [spelling-quiz]
 
 ## GENERAL SKILLS
 - [Super SSH](General_Skills/SuperSSH.md)
@@ -98,6 +99,8 @@ This is the list of picoCTF Challenges that I solved!
 - [strings it]
 - [what's a net cat?]
 - [2Warm]
+- [Based]
+- [plumbing]
 
 ## BINARY EXPLOITATION
 - [heap 0](Binary_Exploitation/heap-0.md)
