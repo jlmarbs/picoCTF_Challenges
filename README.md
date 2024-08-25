@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 120`
+`Challenges Solved: 121`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -110,6 +110,7 @@ This is the list of picoCTF Challenges that I solved!
 - [format-string 1](Binary_Exploitation/format-string1.md)
 - [RPS]
 - [buffer overflow 0]
+- [basic-file-exploit]
 
 ## REVERSE ENGINEERING
 - [packer](Reverse_Engineering/packer.md)
