@@ -5,7 +5,7 @@ This is the list of picoCTF Challenges that I solved!
 
 *Goal is to finish as many as possible before the year ends*
 
-`Challenges Solved: 122`
+`Challenges Solved: 125`
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
@@ -116,6 +116,9 @@ This is the list of picoCTF Challenges that I solved!
 - [packer](Reverse_Engineering/packer.md)
 - [Ready Gladiator 0](Reverse_Engineering/Ready-Gladiator-0.md)
 - [Bit-O-Asm-1]
+- [Bit-O-Asm-2]
+- [vault-door-training]
+- [Picker I]
 
 ## WEB EXPLOITATION
 - [WebDecode](Web_Exploitation/WebDecode.md)
