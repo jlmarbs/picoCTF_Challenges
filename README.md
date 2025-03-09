@@ -1,11 +1,12 @@
 # picoCTF_Challenges
 This is the list of picoCTF Challenges that I solved! 
 
-`Writeup/Notes Update: In Progress (I still am lazy)`
+`Writeup/Notes Update: In Progress (I STILL am lazy)`
 
 *Goal is to finish as many as possible before the year ends*
 
 `Challenges Solved: 126`
+*This will not include the picoCTF 2025 as this will be in another repository once the competition ends.*
 
 ## FORENSICS
 - [Scan Surprise](Forensics/Scan-Surprise.md)
